@@ -12,6 +12,4 @@ If I had more time to work on this project, I would want to add more features to
 
 <img width="1290" alt="image" src="https://github.com/AnnaSoHock/AWS_SimpleCloudProject/assets/81744048/53a4b1ab-10f2-498a-8b3f-3959019b81de">
 
-Demo:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4-03ZUYb2kQ?si=t-RqVDTiXAmOD-Fz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Demo: https://youtu.be/4-03ZUYb2kQ?si=O16KyPPNBGB7k0B2
